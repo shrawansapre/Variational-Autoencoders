@@ -1,64 +1,50 @@
 # Variational Auto Encoder
 
-One Paragraph of project description goes here
+The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The data is stored in a very simple file format designed for storing vectors and multidimensional matrices.
+
+There are 4 files:
+train-images-idx3-ubyte: training set images 
+train-labels-idx1-ubyte: training set labels 
+t10k-images-idx3-ubyte:  test set images 
+t10k-labels-idx1-ubyte:  test set labels
+
+The training set contains 60,000 examples, and the test set 10,000 examples.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+1. Python
+2. IPython/Jupyter notebook
 
+Download and install python on your system from [Python's] https://www.python.org/downloads/ official website or by using [Anaconda] https://www.anaconda.com/download/
+
+Python dependencies used:
+Keras
+- Install
 ```
-Give examples
+$ pip3 install keras # for python 3.x 
+$ pip install keras  # for python 2.x
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Numpy
+- Install
 ```
-$ pip3 install runipy # for python 3.x 
-$ pip install runipy  # for python 2.x
-```
-
-And repeat
-
-```
-until finished
+$ pip3 install numpy # for python 3.x 
+$ pip install numpy  # for python 2.x
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+Matplotlib
+- Install
 ```
-Give an example
+$ pip3 install matplotlib # for python 3.x 
+$ pip install matplotlib  # for python 2.x
 ```
 
-### And coding style tests
+1. Open variationalautoencoder.ipnyb in Jupyter
+2. Run each cell to see the desired output.
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
@@ -66,6 +52,4 @@ Give an example
 
 ## Acknowledgments
 
-* Professor Rensheng Wang - Stevens Insitiute of TechnologyHat tip to anyone whose code was used
-* Inspiration
-* etc
+* Professor Rensheng Wang - Stevens Insititute of Technology
