@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Python
 2. IPython/Jupyter notebook
 
-Download and install python on your system from [Python's] (https://www.python.org/downloads/) official website or by using [Anaconda] (https://www.anaconda.com/download/)
+* Download and install python on your system from [Python's] (https://www.python.org/downloads/) official website or by using [Anaconda] (https://www.anaconda.com/download/)
 
 Python dependencies used:
 Keras
