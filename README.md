@@ -16,10 +16,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-1. Python
+1. Python 3.6.7
 2. IPython/Jupyter notebook
 
-Download and install python on your system from [Python's] official website or by using [Anaconda] 
+Download and install **Python 3.6.7** on your system from
+* Python.org - https://www.python.org/downloads
+* Anaconda - https://www.anaconda.com/download/ 
 
 Python dependencies used:
 
@@ -27,20 +29,17 @@ Keras
 - Install
 ```
 $ pip3 install keras # for python 3.x 
-$ pip install keras  # for python 2.x
 ```
 Numpy
 - Install
 ```
 $ pip3 install numpy # for python 3.x 
-$ pip install numpy  # for python 2.x
 ```
 
 Matplotlib
 - Install
 ```
 $ pip3 install matplotlib # for python 3.x 
-$ pip install matplotlib  # for python 2.x
 ```
 
 1. Open variationalautoencoder.ipnyb in Jupyter
