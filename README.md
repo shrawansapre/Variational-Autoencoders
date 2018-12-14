@@ -14,14 +14,15 @@ The training set contains 60,000 examples, and the test set 10,000 examples.
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 1. Python
 2. IPython/Jupyter notebook
 
-* Download and install python on your system from [Python's] (https://www.python.org/downloads/) official website or by using [Anaconda] (https://www.anaconda.com/download/)
+Download and install python on your system from [Python's] official website or by using [Anaconda] 
 
 Python dependencies used:
+
 Keras
 - Install
 ```
@@ -52,4 +53,4 @@ $ pip install matplotlib  # for python 2.x
 
 ## Acknowledgments
 
-* Professor Rensheng Wang - Stevens Insititute of Technology
+* Professor Rensheng Wang - Stevens Institute of Technology
