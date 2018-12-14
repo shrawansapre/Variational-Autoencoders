@@ -41,6 +41,7 @@ Matplotlib
 ```
 $ pip3 install matplotlib # for python 3.x 
 ```
+## Run
 
 1. Open variationalautoencoder.ipnyb in Jupyter
 2. Run each cell to see the desired output.
