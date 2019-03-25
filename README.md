@@ -23,14 +23,14 @@ These instructions will get you a copy of the project up and running on your loc
    ```
     $ pip3 install keras # for python 3.x 
    ```
-  * Numpy
-  ```
+   * Numpy
+    ```
     $ pip3 install numpy # for python 3.x 
-  ```
-  * Matplotlib
-  ```
+    ```
+   * Matplotlib
+   ```
     $ pip3 install matplotlib # for python 3.x 
-  ```
+   ```
 
 ## Usage
 
